@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TeenPattiConsole": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

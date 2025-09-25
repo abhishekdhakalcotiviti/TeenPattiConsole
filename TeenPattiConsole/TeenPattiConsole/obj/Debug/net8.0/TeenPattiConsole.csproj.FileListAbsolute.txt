@@ -1,0 +1,14 @@
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\bin\Debug\net8.0\TeenPattiConsole.exe
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\bin\Debug\net8.0\TeenPattiConsole.deps.json
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\bin\Debug\net8.0\TeenPattiConsole.runtimeconfig.json
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\bin\Debug\net8.0\TeenPattiConsole.dll
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\bin\Debug\net8.0\TeenPattiConsole.pdb
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\obj\Debug\net8.0\TeenPattiConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\obj\Debug\net8.0\TeenPattiConsole.AssemblyInfoInputs.cache
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\obj\Debug\net8.0\TeenPattiConsole.AssemblyInfo.cs
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\obj\Debug\net8.0\TeenPattiConsole.csproj.CoreCompileInputs.cache
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\obj\Debug\net8.0\TeenPattiConsole.dll
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\obj\Debug\net8.0\refint\TeenPattiConsole.dll
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\obj\Debug\net8.0\TeenPattiConsole.pdb
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\obj\Debug\net8.0\TeenPattiConsole.genruntimeconfig.cache
+C:\Users\abhishekdhakal\source\repos\TeenPattiConsole\TeenPattiConsole\TeenPattiConsole\obj\Debug\net8.0\ref\TeenPattiConsole.dll

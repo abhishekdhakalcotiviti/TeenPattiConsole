@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQvwpbOIrwA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhishekdhakal\\source\\repos\\TeenPattiConsole\\TeenPattiConsole\\TeenPattiConsole\\TeenPattiConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhishekdhakal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
