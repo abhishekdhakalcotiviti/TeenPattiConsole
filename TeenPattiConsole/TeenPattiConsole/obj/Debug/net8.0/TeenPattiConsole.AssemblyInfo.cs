@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeenPattiConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3566c87c400bffb0d19bed34cc20e051039845c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeenPattiConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeenPattiConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
