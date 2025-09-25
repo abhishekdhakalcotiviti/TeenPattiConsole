@@ -10,7 +10,7 @@ WORKDIR /app
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["TeenPattiConsole/TeenPattiConsole.csproj", "TeenPattiConsole/"]
+COPY ["TeenPattiConsole.csproj", "TeenPattiConsole/"]
 RUN dotnet restore "./TeenPattiConsole/TeenPattiConsole.csproj"
 COPY . .
 WORKDIR "/src/TeenPattiConsole"
